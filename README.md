@@ -5,7 +5,7 @@ Here, I have tried to make a weather app using [Python](https://www.python.org/)
 and standard Python interface to the Tcl/Tk GUI toolkit - [Tkinter](https://docs.python.org/3/library/tkinter.html).
 
 
-I have taken help of this [OpenWeatherMap](https://openweathermap.org/api) API for this project.
+I have taken help of [OpenWeatherMap](https://openweathermap.org/api) API for this project.
 
 
 ## Here are some screenshot of working of the project.
